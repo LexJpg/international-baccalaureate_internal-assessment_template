@@ -38,4 +38,10 @@ My client is someone who enjoys sci-fi games. Many sci-fi games are very serious
 #### Feb-March  (month 5-6)
 *Finalise and submit game
 
-
+#### Interview Notes
+-It's gots to be funny
+-Fun to play
+-Passable graphics
+-Funny story
+-Space stuff
+-sci-fi references
