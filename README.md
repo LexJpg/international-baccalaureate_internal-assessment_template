@@ -39,9 +39,16 @@ My client is someone who enjoys sci-fi games. Many sci-fi games are very serious
 * Finalise and submit game
 
 #### Interview Notes
-* It's gots to be funny
-* Fun to play
-* Passable graphics
-* Funny story
-* Space stuff
-* sci-fi references
+* Question: Do you want to have a story for the game? If so what kind?
+* Answer: Yes! I'd love for the game to have a story, I want it to have witty humor and stuff in general to make it feel alive and full of heart!
+* Question: What would you like the gameplay to be like?
+* Answer: I think the most classic types of sci-fi games would be point and click adventures, space shooters, and decision based games. I think those catagories would work really well together and make for a fun and adventurous experience!
+* Question: In terms of graphical quality, what are your expectations?
+* Answer: Not high, as long as it's still fun it doesn't matter if it's a bit pixely, but I expect to know what's going on.
+* Question: How long would you want this game to be?
+* Answer: Not too long, I have homework to do most days.
+
+#### Scenario
+* My client is myself and my classmates. Myself and most of them love games, are humerous and are complete sci-fi nerds. They and I would love to see, laugh at and enjoy the wacky sci-fi world I create and putting a smile on their faces and making them forget the game was even a school project is all I aim to do.
+* My client is looking for a Sci-fi, Point and click space shooter with a wacky story.
+* I propose this as my project: It has been discovered that in ancient times our people, which these ancients called “humans”, first roamed this planet, which we’ve cleverly called, Home Planet. Since we must be the first ones there, for supreme discovery clout, we have embarked on our mission to recover our planet. This I call, Home Planet Recovery Force! However, there is one issue. The museum back on Arlandis wants something to put in the museum, an ancient artifact, preferably one of great historical meaning. It’s your job to escort this object across the cosmos, where you might be a target due to the knowledge of our mission, and how much one of these things would sell on the black market. Venture forth travelers! And deliver this object within 20 days free shipping!
